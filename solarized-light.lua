@@ -1,4 +1,3 @@
+VERISON = "1.0.1"
 
-VERISON = "1.0.0"
-
-AddRuntimeFile("solarized-light", "colorscheme", "solarized-light.micro"))
+AddRuntimeFile("solarized-light", "colorscheme", "solarized-light.micro")
